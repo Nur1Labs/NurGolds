@@ -20,6 +20,8 @@ Algorithm : AIRLogicZero(POS)
 
 BlockTime : 15 Minutes
 
+Platfom Use : UbuntuARM64, DebianARM64
+
 # COMPABILITY OS ##
 
 | OS NAME     | COMPABILITY                                        |
