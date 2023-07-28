@@ -15,6 +15,15 @@ It's called "from ummah to ummah". or people to people. Make MuBdI signal for wh
 
 MuBdI Signed On New Policy(commited 4c89076) As The Platform For All System OutRun On Blockchain system. MuBdI new protocol used block stream on 2021 as more speed and transaction and plus for degenerate new system for MuBdI ecosystem(commited e3bced4).
 
+# SPECIFICATION ##
+
+Name : NurGolds
+Ticker : NURS
+Supply : 15.000.000 NURS
+Reward Block : 50 NURS
+Algorithm : AIRLogicZero(POS)
+BlockTime : 15 Minutes
+
 # AIRLogic Algorithm(MOVED) ##
 
 [AirLogic](http://192.168.0.187/mediawiki/index.php?title=Airlogic)
@@ -58,17 +67,9 @@ MuBdI Signed On New Policy(commited 4c89076) As The Platform For All System OutR
 | QT 5.10     | OK[No Bug/Glitch]                                  |
 | QT 5.11     | OK[No Bug/Glitch]                                  |
 
-# Network(MOVED) ##
-
-[Resources And Development](http://192.168.0.187/mediawiki/index.php?title=Resources_%26_Development)
-
 # Main Network Description(MOVED) ##
 
 [Blockstream](http://192.168.0.187/mediawiki/index.php?title=Blockstream)
-
-# Build Status(MOVED) ##
-
-[Resources And Development](http://192.168.0.187/mediawiki/index.php?title=Resources_%26_Development)
 
 # BlockStream Status(MOVED) ##
 
@@ -76,7 +77,7 @@ MuBdI Signed On New Policy(commited 4c89076) As The Platform For All System OutR
 
 *MuB03 will be announce launch still on plan
 
-Chain Status(moved)
+# Chain Status(moved) ##
 
 [Resources And Development](http://192.168.0.187/mediawiki/index.php?title=Resources_%26_Development)
 
