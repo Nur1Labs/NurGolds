@@ -15,30 +15,6 @@ It's called "from ummah to ummah". or people to people. Make MuBdI signal for wh
 
 MuBdI Signed On New Policy(commited 4c89076) As The Platform For All System OutRun On Blockchain system. MuBdI new protocol used block stream on 2021 as more speed and transaction and plus for degenerate new system for MuBdI ecosystem(commited e3bced4).
 
-there is directory tree below : 
-
-1. builder : place installer MuBdI Engine.
-2. client  : place updates client MuBdI Engine[DEPRECATED].
-3. core : code base for MuBdI like devices core to wallet[no need soon as we have many repos]. here HardFork settings too.
-4. .circleci : this for expert of the core developer only.
-
-Repos Structure : 
-
-1. release/core             : This Main Final For Updates.
-2. hotfix/upgrade           : This Development Team Work(Core).
-3. releases/single_nodes    : This For HardFork Or SoftFork Sub-System.
-4. feature/last_pow         : This For HardFork of End ecosystem cycle of proof of work(prevent new illegal forking).
-
-listed nodes developement tags(builder/nametag_install.sh).
-
-1. cn = core nodes. for main cores system install.
-2. wn = mainly for wallet nodes.
-3. mn = masternodes only.
-4. en = for exchanger nodes.
-5. tn = testing nodes. for test nodes only.
-6. rn = rebuild nodes. easily upgraded nodes.
-6. an = artificial nodes with multi systems. this make sure install if running super computer.(POS II(BA) Supports)
-
 # AIRLogic Algorithm(MOVED) ##
 
 [AirLogic](http://192.168.0.187/mediawiki/index.php?title=Airlogic)
