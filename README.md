@@ -1,19 +1,10 @@
-MuBdI Blockstream Platform-Artificial Life System Build For Blockchain
+NurGolds - Unvaluable Gold
 =====================================
 [![CircleCI](https://dl.circleci.com/status-badge/img/bb/nur1labs/mubdi/tree/release%2Fcore.svg?style=svg&circle-token=ed14022cea6f337da9429cf9e10c1af965764288)](https://dl.circleci.com/status-badge/redirect/bb/nur1labs/mubdi/tree/release%2Fcore)
 [![Build Status](https://app.travis-ci.com/nur1labs/mubdi.svg?token=HH19Fjydf13B3YsoJWsy&branch=release/core)](https://app.travis-ci.com/nur1labs/mubdi)
 
-MuBdI is Platform Blockchain for QaWiYyu.Desclaimer note. After Consensus we herby make split aria-tokenizer and aria self. Cause distribute scammer. Auditing stop
-make tokenizer aria is stop listing project on 20th January, 2019. And total stop services and do swap to AriA[Public] or Imanity[Private] And MuBdI as official new platform at 25th January, 2019
-
-On August The Blockchain Become BA or Blockchain Artificial needed for more transaction and more wided processing(this need support super computer). make
-this blockchain can make light wallet more faster no need saving the chain to local disk.
-
-MuBdI signed on new Fork(commited 07466c3) as Dirham/Dinar trace make USD is more bad way system since general viruses comes Covid-19. And make gold, Dirham and Dinar as alternative. 
-while AriA care for this time to put cold storage wallet. And as used based continental from dubai community agreement number 15(committed 81e71b3).
-It's called "from ummah to ummah". or people to people. Make MuBdI signal for whole fiat enemy and e-wallet based bank resides.
-
-MuBdI Signed On New Policy(commited 4c89076) As The Platform For All System OutRun On Blockchain system. MuBdI new protocol used block stream on 2021 as more speed and transaction and plus for degenerate new system for MuBdI ecosystem(commited e3bced4).
+NurGolds is Specialize Gold using by platform with many utilities. NurGolds can using for Grocery Buying, Saving, Staking, Etc in One Platform Go.
+NurGolds using bases Web4 Platform with AR integrated.
 
 # SPECIFICATION ##
 
@@ -28,11 +19,6 @@ Reward Block : 50 NURS
 Algorithm : AIRLogicZero(POS)
 
 BlockTime : 15 Minutes
-
-# AIRLogic Algorithm(MOVED) ##
-
-[AirLogic](http://192.168.0.187/mediawiki/index.php?title=Airlogic)
-[AirLogic2](http://192.168.0.187/mediawiki/index.php?title=Airlogic2)
 
 # COMPABILITY OS ##
 
@@ -52,25 +38,6 @@ BlockTime : 15 Minutes
 | MuBdI  0.4  | OK[No Bug/Glitch]                                  |
 | MuBdI  0.5  | OK[No Bug/Glitch]                                  |
 | Armbian64   | OK[No Bug/Glitch]                                  |
-
-# BOOST LIBRARY COMPABILITY ##
-
-| OS NAME     | COMPABILITY                                        |
-| ----------- | -------------------------------------------------- |
-| Boost  1.67 | Deprecated                                         |
-| Boost  1.74 | OK[No Bug/Glitch]                                  |
-
-# COMPABILITY QT ##
-
-| QT NAME     | COMPABILITY                                        |
-| ----------- | -------------------------------------------------- |
-| QT 5.5      | Deprecated                                         |
-| QT 5.6      | Deprecated                                         |
-| QT 5.7      | Deprecated                                         |
-| QT 5.8      | Deprecated                                         |
-| QT 5.9      | OK[No Bug/Glitch]                                  |
-| QT 5.10     | OK[No Bug/Glitch]                                  |
-| QT 5.11     | OK[No Bug/Glitch]                                  |
 
 # Main Network Description(MOVED) ##
 
