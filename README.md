@@ -18,10 +18,15 @@ MuBdI Signed On New Policy(commited 4c89076) As The Platform For All System OutR
 # SPECIFICATION ##
 
 Name : NurGolds
+
 Ticker : NURS
+
 Supply : 15.000.000 NURS
+
 Reward Block : 50 NURS
+
 Algorithm : AIRLogicZero(POS)
+
 BlockTime : 15 Minutes
 
 # AIRLogic Algorithm(MOVED) ##
