@@ -54,28 +54,6 @@ Platfom Use : UbuntuARM64, DebianARM64
 
 [Resources And Development](http://192.168.0.187/mediawiki/index.php?title=Resources_%26_Development)
 
-# DEVELOPMENT TAGS ##
-
-tags is list for easy what we change. so make sure that arrange.
-
-| DEVTAG | README                                        |
-| ------ | --------------------------------------------- |
-| aci    | all ci integrated                             |
-| all    | all sources + QT + db + anything inside cores |
-| cdc    | codacy integrated                             |
-| con    | consoles like android, iphone, raspi,etc      |
-| db     | for db purpose                                |
-| doc    | for documents all inside                      |
-| lang   | for language tags                             |
-| lib    | for all type library                          |
-| nod    | for all node deployment install               |
-| rem    | for remote yml network connection             |
-| rpt    | for report db system                          |
-| src    | change for core sources not QT                |
-| sql    | sql scripting system                          |
-| gui    | qt not source                                 |
-| web    | web based                                     |
-
 # License ##
 
 Copyright (c) 2010-2022, Nur1labs
