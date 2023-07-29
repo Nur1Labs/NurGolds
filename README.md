@@ -22,28 +22,27 @@ BlockTime : 15 Minutes
 
 Platfom Use : UbuntuARM64, DebianARM64
 
+# SITES ##
+
+1. Explorer : (soon)
+
+2. Android Wallt : (soon)
+
+3. Platform Gron : (soon)
+
+# HOW TO GET ##
+
+1. Open Up site (website) then buy there. 
+
+2. Send to your wallet(remember every withdraw is using fee around 3% commision for gold standard
+
+3. Run your staking on wallet
+
 # COMPABILITY OS ##
 
 | OS NAME     | COMPABILITY                                        |
 | ----------- | -------------------------------------------------- |
-| Ubuntu 16.x | Deprecated                                         |
-| Ubuntu 18.x | Deprecated                                         |
-| Ubuntu 20.x | OK[No Bug/Glitch]                                  |
-| Ubuntu 22.x | OK[No Bug/Glitch]                                  |
-| Debian 9    | Deprecated                                         |
-| Debian 10   | Deprecated                                         |
-| Debian 11   | OK[No Bug/Glitch]                                  |
-| Debian 12   | OK[No Bug/Glitch]                                  |
-| MuBdI  0.1  | Deprecated                                         |
-| MuBdI  0.2  | Deprecated                                         |
-| MuBdI  0.3  | Deprecated                                         |
-| MuBdI  0.4  | OK[No Bug/Glitch]                                  |
-| MuBdI  0.5  | OK[No Bug/Glitch]                                  |
 | Armbian64   | OK[No Bug/Glitch]                                  |
-
-# Main Network Description(MOVED) ##
-
-[Blockstream](http://192.168.0.187/mediawiki/index.php?title=Blockstream)
 
 # BlockStream Status(MOVED) ##
 
