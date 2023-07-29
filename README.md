@@ -26,9 +26,9 @@ Platfom Use : UbuntuARM64, DebianARM64
 
 1. Explorer : (soon)
 
-2. Android Wallt : (soon)
+2. Android Wallet : (soon)
 
-3. Platform Gron : (soon)
+3. Gron Platform : (soon after presale finish)
 
 # HOW TO GET ##
 
