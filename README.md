@@ -58,6 +58,12 @@ Platfom Use : UbuntuARM64, DebianARM64
 
 [Resources And Development](http://192.168.0.187/mediawiki/index.php?title=Resources_%26_Development)
 
+# Notes ##
+
+For Any User Expertise Only on Programming Field and linux member. We Appriciate for Contact our staff for installing Nodes(Fee Included)
+
+*Collateral is update to 1k
+
 # License ##
 
 Copyright (c) 2010-2022, Nur1labs
