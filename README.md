@@ -12,6 +12,10 @@ Name : NurGolds
 
 Ticker : NURS
 
+Version : v6.7.6
+
+Subversion : Charllote
+
 Supply : 15.000.000 NURS
 
 Reward Block : 50 NURS
